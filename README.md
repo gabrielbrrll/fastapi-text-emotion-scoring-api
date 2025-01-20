@@ -1,8 +1,5 @@
 # fastapi-text-emotion-scoring-api
 
-Here’s a README tailored for your basic FastAPI Emotion Analyzer app:
-
-```markdown
 # Emotion Analyzer API
 
 A lightweight and simple API for analyzing emotions in text using a pre-trained model from the Hugging Face `transformers` library.
